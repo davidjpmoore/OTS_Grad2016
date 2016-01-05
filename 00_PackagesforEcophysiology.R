@@ -7,6 +7,7 @@
 #Grab the following packages before you start
 
 library(devtools)
+#also need rjags and JAGS
 library(ggplot2)
 library(plyr)
 library(dplyr)
