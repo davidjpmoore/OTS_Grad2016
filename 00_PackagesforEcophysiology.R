@@ -5,6 +5,7 @@
 
 
 #Grab the following packages before you start
+#This is a comment
 
 library(devtools)
 #also need rjags and JAGS
